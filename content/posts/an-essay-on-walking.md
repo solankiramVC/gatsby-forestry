@@ -5,7 +5,7 @@ author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
-### Amavido forestry sssssssss
+### Amavido react forestry
 
 ### 
 
